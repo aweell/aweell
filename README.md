@@ -7,5 +7,5 @@ Digital designer & design systems advocate. Currently leading DXC Technology's H
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dxc-technology&repo=halstack-style-guide)](https://github.com/dxc-technology/halstack-style-guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aweell&repo=Grid-utility)](https://github.com/aweell/Grid-utility)
 
-#### Or read my latest articles on [Medium](https://alexbuenodesign.medium.com/)
+#### Read my latest articles on [Medium](https://alexbuenodesign.medium.com/) or in my personal [blog](https://www.alexbuenodesign.com/blog).
 
