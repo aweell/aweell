@@ -1,6 +1,6 @@
 ## Hi there! I'm Alex Bueno 👋
 
-Digital designer & design systems advocate. Currently leading DXC Technology's Halstack desing system team. Allways looking for new challeges, things to learn and to improve.
+Digital designer & design systems advocate. Allways looking for new challeges, things to learn and to improve.
 
 #### Check out my latest work:
 
